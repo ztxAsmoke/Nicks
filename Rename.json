@@ -1,14 +1,6 @@
-[
-  { "nick": "zBen", "styled": "<color=#0000ff>zBen" },
-  { "nick": "Rycez7", "styled": "<color=#ff8c00>Rycez7" },
-  { "nick": "Bletzk7", "styled": "Bletzk7<color=#f76ade>[B]" },
-  { "nick": "Dz9", "styled": "Dz9<color=#f76ade>[B]" },
-  { "nick": "Lorenzo", "styled": "Lorenzo<color=#f76ade>[B]" },
-  { "nick": "Mxffz", "styled": "Mxffz<color=#f76ade>[B]" },
-  { "nick": "Fran", "styled": "Fran<color=#f76ade>[B]" },
-  { "nick": "Davizk", "styled": "Davizk<color=#f76ade>[B]" },
-  { "nick": "mknotzz", "styled": "<#FF00>m<#DB0404>k<#B70808>S<#920C0C>G<#6E1010>L" },
-  { "nick": "Rhzkxofc", "styled": "<color=#03fcfc>Rhzkxofc" },
-  { "nick": "ztxzzz", "styled": "<#0045ff>z<#1e6cff>t<#3b94ff>x<#59bbff>P<#77ddff>r<#95ffff>o<#ebf700><sup>[DEV]" },
-  { "nick": "zp9zzz", "styled": "<#0045ff>z<#1e6cff>p<#3b94ff>9<#59bbff>P<#77ddff>r<#95ffff>o<#ebf700><sup>[DEV]" }
-]
+{
+  "array": [
+    { "nick": "zBen", "styled": "<color=#0000ff>zBen" },
+    { "nick": "Rycez7", "styled": "<color=#ff8c00>Rycez7" }
+  ]
+}
